@@ -1,0 +1,31 @@
+body {
+  margin: 0px;
+}
+.titulos {
+  background-color: #c4c4c4;
+  color: #005677;
+}
+footer {
+  background-color: #005677;
+  color: white;
+}
+
+header div {
+  background-color: #e5e5e5;
+}
+
+header h1 {
+  margin-top: 0px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  font-size: 35px;
+  color: aqua;
+}
+
+h2 {
+  font-weight: normal;
+}
+
+dt {
+  font-weight: bold;
+}
